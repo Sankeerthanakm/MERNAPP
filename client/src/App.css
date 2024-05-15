@@ -1,0 +1,22 @@
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+td{
+  width: 60px;
+}
+th{
+  background-color:  navy;
+}
+th, td {
+  padding: 10px;
+}
+div{
+   display: flex;
+  justify-content: center; 
+ 
+}
+button{
+  background-color: green;
+  border: 0;
+}
